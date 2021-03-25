@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\TagListMap\TagListMap\bin\Debug\TagListMap.exe.config
+C:\Users\Furkan\source\repos\TagListMap\TagListMap\bin\Debug\TagListMap.exe
+C:\Users\Furkan\source\repos\TagListMap\TagListMap\bin\Debug\TagListMap.pdb
+C:\Users\Furkan\source\repos\TagListMap\TagListMap\obj\Debug\TagListMap.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\TagListMap\TagListMap\obj\Debug\TagListMap.Form1.resources
+C:\Users\Furkan\source\repos\TagListMap\TagListMap\obj\Debug\TagListMap.Properties.Resources.resources
+C:\Users\Furkan\source\repos\TagListMap\TagListMap\obj\Debug\TagListMap.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\TagListMap\TagListMap\obj\Debug\TagListMap.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\TagListMap\TagListMap\obj\Debug\TagListMap.exe
+C:\Users\Furkan\source\repos\TagListMap\TagListMap\obj\Debug\TagListMap.pdb
